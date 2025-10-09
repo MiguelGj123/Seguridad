@@ -37,8 +37,29 @@ ajustes_manuales = {
     # Ejemplo:
     # 'A': 'D',
     # 'X': 'E',
-    "N": 's',
-    "T": 'l'
+  # “AZKKZHC” → “DURRUTI”
+   'A': 'd', 'Z': 'u', 'K': 'r', 'H': 't', 'C': 'i',
+    # “AX” → “de”
+    'X': 'e',
+    # “JIvCXPQKX” → “NOVIEMBRE”  (ojo: la v se convierte en V con .upper())
+    'J': 'n',
+    'I': 'o',
+    'V': 'y',
+    'P': 'm',
+    'Q': 'b',
+    # “RIJ” → “CON”
+    'R': 'c',
+    'E': 'a',
+    'D': 'p',
+    'N': 's',
+    'U': 'g',
+    'S': 'q',
+    'G': 'j',
+    'T': 'l',
+    'O': 'f',
+    'F': 'x',
+    'M': 'h',
+    'L': 'z'
 
 }
 
